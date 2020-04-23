@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italians on Parolin snc</title>
+    <link>https://pf4parolin.netlify.app/fr/italian/</link>
+    <description>Recent content in Italians on Parolin snc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pf4parolin.netlify.app/fr/italian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Schönramer Gold</title>
+      <link>https://pf4parolin.netlify.app/fr/italian/blog/simple-blog-post-1/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pf4parolin.netlify.app/fr/italian/blog/simple-blog-post-1/</guid>
+      <description>SCHÖNRAMER GOLD - Birra Chiara Una birra forte e persistente. Birra dal colore dorato con una spiccata nota di aroma di miele di castagno.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://pf4parolin.netlify.app/fr/italian/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pf4parolin.netlify.app/fr/italian/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://pf4parolin.netlify.app/fr/italian/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pf4parolin.netlify.app/fr/italian/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+  </channel>
+</rss>
